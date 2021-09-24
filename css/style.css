@@ -219,7 +219,7 @@ header.black li:hover {
 .headercontainer nav ul li:hover {
   border-bottom: 2px solid #fff;
 }
-.headercontainer nav button {
+.headercontainer nav .button {
   border: 2px solid #FF4D00;
   background-color: transparent;
   border-radius: 50px;
@@ -232,8 +232,9 @@ header.black li:hover {
   font-weight: 600;
   font-size: 18px;
   color: #fff;
+  text-align: center;
 }
-.headercontainer nav button:hover {
+.headercontainer nav .button:hover {
   border-radius: 70px;
 }
 .headercontainer nav .links {

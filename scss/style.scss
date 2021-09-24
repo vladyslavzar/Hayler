@@ -170,7 +170,7 @@ header.black{
 					}										
 				}
 			}
-			button{
+			.button{
 				border: 2px solid #FF4D00;
 				background-color: transparent;
 				border-radius: 50px;
@@ -183,6 +183,7 @@ header.black{
 				font-weight: 600;
 				font-size: 18px;
 				color: #fff;
+				text-align: center;
 				&:hover{
 					border-radius: 70px;					
 				}				
